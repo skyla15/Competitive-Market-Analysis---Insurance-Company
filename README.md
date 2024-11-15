@@ -53,5 +53,8 @@ Reference :
   
 - Videos :  
   테디노트
-    - [RAG 파이프라인 연습](https://www.youtube.com/watch?v=1scMJH93v0M&t=572s)
+    - RAG
+        - [RAG 파이프라인 1 연습](https://www.youtube.com/watch?v=1scMJH93v0M&t=572s)
+        - [RAG 동작과정 쉽게 이해하기](https://www.youtube.com/watch?v=zybyszetEcE&t=992s) 
+
   모두 AI : [Multi Agent Explanation](https://www.youtube.com/watch?v=1n_Kui6B43Y)  
