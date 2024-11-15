@@ -26,5 +26,5 @@ Reference :
   [6] [Langchain Comprehensive Book: Wiki Doc in Korean](https://wikidocs.net/262595)  
   
 - Videos :
-  테디노트
-  모두 AI : [Multi Agent Explanation](https://www.youtube.com/watch?v=1n_Kui6B43Y)
+  테디노트  
+  모두 AI : [Multi Agent Explanation](https://www.youtube.com/watch?v=1n_Kui6B43Y)  
