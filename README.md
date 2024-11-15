@@ -1,19 +1,42 @@
 # NLP Competitive Market Analysis Kedro Project
 This porject is to analyze markets in different domains. Since the supervisor is familiar with the insurance domain, this project will be focused on the insurance domain. However there is many potentials for this project to be extended to.  
 
+#### General workflow of webscraping with Langchain
+- Search: Query to url (e.g., using GoogleSearchAPIWrapper) 
+- Loading: Url to HTML (e.g., using AsyncHtmlLoader, AsyncChromiumLoader, etc).
+- Transforming: HTML to formatted text (e.g., using HTML2Text or Beautiful Soup).
+
+[Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)  
+[Tool setup](https://python.langchain.com/v0.1/docs/get_started/installation/)   
+
+#### Next Steps : Need a discussion.. 
+- Split documents
+    - Which splitter?  
+    - Langchain [Splitter Explanation](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/)  
+    - Langchain [Splitter Tool](https://js.langchain.com/v0.1/docs/modules/data_connection/document_transformers/)
+- Store data in the vector database 
+- Agent Approaches
+    - Retrieve
+    - Schema, Function design ( Tool Calling )  
+        - How do we design the schema? ( need a resarch )
+        - [Langsmith Prompt](https://smith.langchain.com/hub Library)
+    - Explore Agent Approach ( Langchain )
+- Evaluation 
+- Explore Multi Agent Approaches
+    - LangGraph
+    - Autogen ( Simple Version )
+- Complementary Tools
+    - BertTopics 
+
+- Implement in Kedro / streamlit 
 
 
-* Webscraping : Crawling -> Loading HTML documents(Loader) -> Cleansing(Transformer) -> Splitting -> Storing
-* RAG Architecture
-1. Crawl internal HTML files or internal URLs of a given URL ( Insurance Company ) 
-2. Cleansing the HTML files
-3. Split the data
-4. Store the data into a vector database
+#### Not sure..
+- Output Format ?? ; [video ( 28:30 )](https://www.youtube.com/watch?app=desktop&v=NHeOMxa7VgU) ?? 
+- Agents : Document search, online search -> comparison ? or just based on the documents? 
 
-
-* Tool Calling Part / Agent Approach  
-Still in progress
-
+#### Required for me
+- Explore RAG architecture : [RAG](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
   
 
 Reference :   
