@@ -4,6 +4,7 @@ This porject is to analyze markets in different domains. Since the supervisor is
 #### General workflow of webscraping with Langchain
 - Search: Query to url (e.g., using GoogleSearchAPIWrapper) 
 - Loading: Url to HTML (e.g., using AsyncHtmlLoader, AsyncChromiumLoader, etc).
+    - Document & Image loaders ( Currently only text )
 - Transforming: HTML to formatted text (e.g., using HTML2Text or Beautiful Soup).
 
 [Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)  
@@ -11,15 +12,18 @@ This porject is to analyze markets in different domains. Since the supervisor is
 
 #### Next Steps : Need a discussion.. 
 - Split documents
-    - Which splitter?  
+    - ***Which splitter? ( Not discussed yet )***
     - Langchain [Splitter Explanation](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/)  
     - Langchain [Splitter Tool](https://js.langchain.com/v0.1/docs/modules/data_connection/document_transformers/)
+    - [Chunk visualization](https://chunkviz.up.railway.app)
 - Store data in the vector database 
+    - ***Which Vectorstore? ( Not discussed yet ! )***
 - Agent Approaches
     - Retrieve
+        - [Retrievers](https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/)
     - Schema, Function design ( Tool Calling )  
         - How do we design the schema? ( need a resarch )
-        - [Langsmith Prompt](https://smith.langchain.com/hub Library)
+        - [Langsmith Prompt Library](https://smith.langchain.com/hub)
     - Explore Agent Approach ( Langchain )
 - Evaluation 
 - Explore Multi Agent Approaches
@@ -37,7 +41,6 @@ This porject is to analyze markets in different domains. Since the supervisor is
 
 #### Required for me
 - Explore RAG architecture : [RAG](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
-  
 
 Reference :   
 - Documents :  
