@@ -56,6 +56,6 @@ Reference :
     - RAG
         - [RAG 파이프라인 1 연습](https://www.youtube.com/watch?v=1scMJH93v0M&t=572s)
         - [RAG 동작과정 쉽게 이해하기(1) : Storing into vectorstore](https://www.youtube.com/watch?v=zybyszetEcE&t=992s)
-        - [RAG 동작과정 쉽게 이해하기(2) : [Retriever + Prompt](https://www.youtube.com/watch?v=Fxc2AzrxOP8&t=76s)
+        - [RAG 동작과정 쉽게 이해하기(2) : Retriever + Prompt](https://www.youtube.com/watch?v=Fxc2AzrxOP8&t=76s)
 
   모두 AI : [Multi Agent Explanation](https://www.youtube.com/watch?v=1n_Kui6B43Y)  
