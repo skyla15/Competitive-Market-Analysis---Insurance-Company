@@ -27,4 +27,4 @@ Reference :
   
 - Videos :
   테디노트
-  모두 AI : Multi Agent Explanation 
+  모두 AI : [Multi Agent Explanation](https://www.youtube.com/watch?v=1n_Kui6B43Y)
