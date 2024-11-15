@@ -11,12 +11,12 @@ This porject is to analyze markets in different domains. Since the supervisor is
 4. Store the data into a vector database
 
 
-* Tool Calling Part / Agent Approach
+* Tool Calling Part / Agent Approach  
 Still in progress
 
   
 
-Reference : 
+Reference :   
 - Documents :  
   [1] [WebScraping with Langchain](https://python.langchain.com/v0.1/docs/use_cases/web_scraping/)   
   [2] [Langchain Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)    
@@ -25,6 +25,7 @@ Reference :
   [5] [Tool Calling](https://python.langchain.com/docs/concepts/tool_calling/)  
   [6] [Langchain Comprehensive Book: Wiki Doc in Korean](https://wikidocs.net/262595)  
   
-- Videos :
-  테디노트  
+- Videos :  
+  테디노트
+    - [RAG 파이프라인 연습](https://www.youtube.com/watch?v=1scMJH93v0M&t=572s)
   모두 AI : [Multi Agent Explanation](https://www.youtube.com/watch?v=1n_Kui6B43Y)  
