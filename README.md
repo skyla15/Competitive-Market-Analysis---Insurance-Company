@@ -16,6 +16,7 @@ This porject is to analyze markets in different domains. Since the supervisor is
     - Langchain [Splitter Explanation](https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/)  
     - Langchain [Splitter Tool](https://js.langchain.com/v0.1/docs/modules/data_connection/document_transformers/)
     - [Chunk visualization](https://chunkviz.up.railway.app)
+    - [How to Split Markdown Documents in LangChain Easily](https://medium.com/@garysvenson09/how-to-split-markdown-documents-in-langchain-easily-b28c79efa2ba)
 - Store data in the vector database 
     - ***Which Vectorstore? ( Not discussed yet ! )***
 - Agent Approaches
