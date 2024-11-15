@@ -18,12 +18,12 @@ Still in progress
 
 Reference : 
 - Documents :  
-  [1] [WebScraping with Langchain](https://python.langchain.com/v0.1/docs/use_cases/web_scraping/) 
-  [2] [Langchain Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)  
-  [3] [Langchain Setup](https://python.langchain.com/v0.1/docs/get_started/installation/)   
-  [4] [RAG](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
-  [5] [Tool Calling](https://python.langchain.com/docs/concepts/tool_calling/)
-  [6] [Langchain Comprehensive Book: Wiki Doc in Korean](https://wikidocs.net/262595)
+  [1] [WebScraping with Langchain](https://python.langchain.com/v0.1/docs/use_cases/web_scraping/)   
+  [2] [Langchain Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)    
+  [3] [Langchain Setup](https://python.langchain.com/v0.1/docs/get_started/installation/)     
+  [4] [RAG](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)  
+  [5] [Tool Calling](https://python.langchain.com/docs/concepts/tool_calling/)  
+  [6] [Langchain Comprehensive Book: Wiki Doc in Korean](https://wikidocs.net/262595)  
   
 - Videos :
   테디노트
