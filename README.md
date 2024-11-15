@@ -43,7 +43,7 @@ This porject is to analyze markets in different domains. Since the supervisor is
 - Explore RAG architecture : [RAG](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
 
 Reference :   
-- Documents :
+- Documents :  
       - LangChain  
           [1] [WebScraping with Langchain](https://python.langchain.com/v0.1/docs/use_cases/web_scraping/)   
           [2] [Langchain Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)    
