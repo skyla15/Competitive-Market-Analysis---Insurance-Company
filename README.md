@@ -28,7 +28,7 @@ This porject is to analyze markets in different domains. Since the supervisor is
         - Vector store queries
             - Similarity search / Similarity search by vector / Maximum marginal releance search / Asynchronous operations 
             - Possible issue: the versions of two methods (```.embed_documents```, ```.embed_query```) might differ due to updates of embedding models(version control needed)
-        - [TODO] Understanding Indexing 
+        - [TODO] Understanding Indexing  
     7. [TODO] [Retrievers Explanation](https://python.langchain.com/v0.1/docs/modules/data_connection/) / [Retrievers](https://python.langchain.com/v0.1/docs/modules/data_connection/retrievers/) : A retriever is an interface that returns documents given an unstructured query. It is more general than a vector store. A retriever does not need to be able to store documents, only to return (or retrieve) them. Vector stores can be used as the backbone of a retriever, but there are other types of retrievers as well. Retrievers accept a string query as input and return a list of Document's as output.
 
 - [Research Automation](https://python.langchain.com/v0.1/docs/use_cases/web_scraping/)
@@ -51,20 +51,14 @@ Read carefully and get a grasp of which tools to use for the next stpes
 [Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)    
 [Langchain setup](https://python.langchain.com/v0.1/docs/get_started/installation/)    
 [Paper: Adaptive-RAG](https://arxiv.org/abs/2403.14403)
-Reference :   
 
 
 ---
 Collecting references :  
 
-
-  - LangChain  
-      [1] [WebScraping with Langchain](https://python.langchain.com/v0.1/docs/use_cases/web_scraping/)   
-      [2] [Langchain Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)    
-      [3] [Langchain Setup](https://python.langchain.com/v0.1/docs/get_started/installation/)     
-      [4] [RAG](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)  
-      [5] [Tool Calling](https://python.langchain.com/docs/concepts/tool_calling/)  
-      [6] [Langchain Comprehensive Book: Wiki Doc in Korean](https://wikidocs.net/262595)  
+- Documents  
+      - [판다스 스튜디오 : 랭체인(LangChain) 입문부터 응용까지](https://wikidocs.net/book/14473)  
+      - [테디노트 : 랭체인노트](https://wikidocs.net/book/14314)  
   
 - Videos :  
   테디노트
